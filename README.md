@@ -1,6 +1,11 @@
 # 💬 Anonymous Chat
-<img width="100" height="100" alt="images" src="https://github.com/user-attachments/assets/8a1d3575-4fa6-4c24-8bc8-93666deedd95" />
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8a1d3575-4fa6-4c24-8bc8-93666deedd95"
+    alt="App Screenshots"
+    width="900"
+  />
+</p>
 
 
 
