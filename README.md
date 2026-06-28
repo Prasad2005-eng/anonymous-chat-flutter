@@ -227,6 +227,9 @@ git push origin feature-name
 This project is licensed under the **MIT License**.
 
 ---
+## 🎥 Demo
+
+Download the latest APK from the Releases section.
 
 ## 👨‍💻 Author
 
