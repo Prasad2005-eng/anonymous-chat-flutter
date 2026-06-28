@@ -1,4 +1,6 @@
 # 💬 Anonymous Chat
+<img width="748" height="1600" alt="chat png" src="https://github.com/user-attachments/assets/19592ea8-a3f4-4c54-8010-7102520f752b" />
+
 
 
 ## 📖 Overview
